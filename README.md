@@ -1,3 +1,5 @@
+.\.venv\Scripts\Activate.ps1
+
 # Python 学习路线指南 (Python Learning)
 作为我个人学习机器学习前置内容的一个相对体系化的 Python 学习路径，涵盖了从基础语法到核心数据分析库（NumPy、Pandas）的进阶过程。本指南基于推荐的学习任务整理，旨在记录我自己的学习过程并建立数据处理能力。
 # 一.总体学习目标
